@@ -2,7 +2,7 @@
 name = "repl_python3_selenium-youtube-scraper-live"
 version = "0.1.0"
 description = ""
-authors = ["Yogesh <<>>"]
+authors = ["Lokesh <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
